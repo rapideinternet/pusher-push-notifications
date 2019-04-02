@@ -34,14 +34,19 @@
             "name": "Hanlin Wang",
             "email": "605231181@qq.com",
             "homepage": "https://wanghanlin.com"
+        },
+        {
+            "name": "Peter Mein",
+            "email": "peter@infratron.io",
+            "homepage": "https://infratron.io"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/events": "5.5.* || 5.6.*",
-        "illuminate/notifications": "5.5.* || 5.6.*",
-        "illuminate/queue": "5.5.* || 5.6.*",
-        "illuminate/support": "5.5.* || 5.6.*",
+        "illuminate/events": "5.5.* || 5.6.* || 5.7.*",
+        "illuminate/notifications": "5.5.* || 5.6.* || 5.7.*",
+        "illuminate/queue": "5.5.* || 5.6.* || 5.7.*",
+        "illuminate/support": "5.5.* || 5.6.* || 5.7.*",
         "pusher/pusher-push-notifications": "^0.10"
     },
     "require-dev": {
